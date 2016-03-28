@@ -10,11 +10,5 @@ def addSubscribers(list_id, subscribers):
 if __name__ == "__main__":
     pass
 
-##    lists = mc_client.lists.list()
-##    for l in lists["data"]:
-##        if l["name"] == "TEST List":
-##            list_id = l["id"]
-##            break
-##    subscribers = [{"email": {"email": "tjrtsai@gmail.com"}, "merge_vars": {"FNAME": "Ray", "LNAME": "Tsai"}}]
     
     
